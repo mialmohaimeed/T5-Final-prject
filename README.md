@@ -35,6 +35,8 @@ Cleaning the data by converting the Hight from CM to M, age from days to year, a
 , Finding the most age affecting the occurrence of cardiovascular disease, Find if smoke affects the occurrence of cardiovascular disease?
  ,The gender that most suffer from cardiovascular diseases
  
+![صورة2](https://user-images.githubusercontent.com/93050714/142351172-4541e902-aec2-4648-9c95-b628558ae597.png)
+
 
 **Models**
 Logistic Regression, and random forest were used in this projest. The random forest get the higher accuracy .
@@ -51,3 +53,7 @@ The result of used model:
 - Scikit-learn for modeling
 - Matplotlib and Seaborn for plotting
 - LogisticRegression and RandomForestClassifier for modling
+
+# Communication
+The slides are provided here.
+
