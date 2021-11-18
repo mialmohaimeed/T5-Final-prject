@@ -30,3 +30,24 @@ The feature list:
 
 # Algorithms
 
+Cleaning the data by converting the Hight from CM to M, age from days to year, and changing the data type to integer.
+ ,Calculating the BMI by applying this formula (wight / height^2) 
+, Finding the most age affecting the occurrence of cardiovascular disease, Find if smoke affects the occurrence of cardiovascular disease?
+ ,The gender that most suffer from cardiovascular diseases
+ 
+
+**Models**
+Logistic Regression, and random forest were used in this projest. The random forest get the higher accuracy .
+
+**Model Evaluation and Selection**
+Logistic Regression, and random forest were used to molding the data . The random forest get the higher accuracy . The models were trained on a 25/75 test vs. train. The official metric was the accuracy of the model, where the model tested on the accuracy.
+
+The result of used model:
+
+•	Accuracy:72.2%
+
+# Tools
+- Numpy and Pandas for data manipulation
+- Scikit-learn for modeling
+- Matplotlib and Seaborn for plotting
+- LogisticRegression and RandomForestClassifier for modling
